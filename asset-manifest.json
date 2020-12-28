@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lidemy-week21-react-gomoku/static/js/main.b61d846a.chunk.js",
+    "main.js.map": "/lidemy-week21-react-gomoku/static/js/main.b61d846a.chunk.js.map",
+    "runtime-main.js": "/lidemy-week21-react-gomoku/static/js/runtime-main.dfd3a446.js",
+    "runtime-main.js.map": "/lidemy-week21-react-gomoku/static/js/runtime-main.dfd3a446.js.map",
+    "static/js/2.e2227f54.chunk.js": "/lidemy-week21-react-gomoku/static/js/2.e2227f54.chunk.js",
+    "static/js/2.e2227f54.chunk.js.map": "/lidemy-week21-react-gomoku/static/js/2.e2227f54.chunk.js.map",
+    "index.html": "/lidemy-week21-react-gomoku/index.html",
+    "static/js/2.e2227f54.chunk.js.LICENSE.txt": "/lidemy-week21-react-gomoku/static/js/2.e2227f54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd3a446.js",
+    "static/js/2.e2227f54.chunk.js",
+    "static/js/main.b61d846a.chunk.js"
+  ]
+}
